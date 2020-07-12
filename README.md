@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Adrián Antañón (Barcelona, Spain) and I love to learn about technology.
+I'm Adrián Antañón and I love to learn about technology.
 
 I’m currently learning web applications development (Angular, React, Laravel..), I started studying this in September 19 and I feel that there is an exciting world where I can learn and improve a lot.
 
