@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+I'm Adrián Antañón (Barcelona, Spain) and I love to learn about technology.
+
+I’m currently learning web applications development (Angular, React, Laravel..), I started studying this in September 19 and I feel that there is an exciting world where I can learn and improve a lot.
+
+So I will update my repository with projects to show my knowledge (and progres) on that technology, feel free to contact me to tell me more optimal ways to code.
+
+If you want to reach me, send a message!
 
 <!--
 **Adri-Antanon/Adri-Antanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
