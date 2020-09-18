@@ -8,6 +8,8 @@ So I will update my repository with projects to show my knowledge (and progres) 
 
 If you want to reach me, send a message!
 
+PS: My repositories about the courses I do to learn are at https://gitlab.com/AdrianAntanon, here it is only for projects using that learned knowledge.
+
 <!--
 **Adri-Antanon/Adri-Antanon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
