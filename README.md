@@ -2,7 +2,7 @@
 
 I'm Adrián Antañón and I love to learn about technology.
 
-I’m currently learning web applications development (Angular, React, Laravel...), I started studying this in September 19 and I feel that there is an exciting world where I can learn and improve a lot.
+I’m currently learning web applications development (React, NextJS...), I started studying this in September 19 and I feel that there is an exciting world where I can learn and improve a lot.
 
 So I will update my repository with projects to show my knowledge (and progress) on that technology, feel free to contact me to tell me more optimal ways to code.
 
