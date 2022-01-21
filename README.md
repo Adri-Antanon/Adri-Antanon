@@ -2,9 +2,9 @@
 
 I'm Adrián Antañón and I love to learn about technology.
 
-I’m currently learning web applications development (React, NextJS...), I started studying this in September 19 and I feel that there is an exciting world where I can learn and improve a lot.
+I’m a junior frontend developer working in different projects using some React frameworks or libraries as React or NextJS.
 
-So I will update my repository with projects to show my knowledge (and progress) on that technology, feel free to contact me to tell me more optimal ways to code.
+So I will update my repository with projects to show my knowledge (and progress) on that technology, feel free to contact me to tell me more optimal ways to code or collaborate.
 
 If you want to reach me, send a message!
 
