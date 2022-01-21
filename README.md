@@ -6,6 +6,8 @@ I’m a junior frontend developer working in different projects using some React
 
 So I will update my repository with projects to show my knowledge (and progress) on that technology, feel free to contact me to tell me more optimal ways to code or collaborate.
 
+You can see a few of my projects in my portfolio https://adrianantanon.netlify.app/
+
 If you want to reach me, send a message!
 
 PS: My repositories about the courses I do to learn are at https://gitlab.com/AdrianAntanon, here it is only for projects using that learned knowledge.
