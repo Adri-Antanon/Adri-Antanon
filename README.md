@@ -5,7 +5,7 @@
 
 I'm Adrián Antañón and I love to learn about technology.
 
-I’m a junior frontend developer working in different projects using some React frameworks or libraries as React or NextJS.
+I’m a frontend developer working in different projects using some React frameworks or libraries as React or NextJS.
 
 So I will update my repository with projects to show my knowledge (and progress) on that technology, feel free to contact me to tell me more optimal ways to code or collaborate.
 
