@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Antanon&show_icons=true&theme=material-palenight)
+<!-- ![Adri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adri-Antanon&show_icons=true&theme=material-palenight) -->
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=Adri-Antanon&theme=material-palenight)
 
 I'm Adrián Antañón and I love to learn about technology.
